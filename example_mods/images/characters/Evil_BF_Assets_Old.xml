@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Evil_BF_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Evil BF Sing Note DOWN0000" x="3077" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note DOWN0001" x="3077" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note DOWN0002" x="3077" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note DOWN0003" x="3591" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note DOWN0004" x="3591" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note LEFT0000" x="2048" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note LEFT0001" x="2048" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note LEFT0002" x="2048" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note LEFT0003" x="2565" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note LEFT0004" x="2565" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note RIGHT0000" x="0" y="512" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note RIGHT0001" x="0" y="512" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note RIGHT0002" x="513" y="510" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note RIGHT0003" x="513" y="510" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note RIGHT0004" x="513" y="510" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note UP0000" x="1026" y="513" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note UP0001" x="1026" y="513" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note UP0002" x="1026" y="513" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note UP0003" x="1539" y="513" width="514" height="514"/>
+	<SubTexture name="Evil BF Sing Note UP0004" x="1539" y="513" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0000" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0001" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0002" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0003" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0004" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0005" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0006" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0007" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0008" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0009" x="1539" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0010" x="1539" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0011" x="1539" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0012" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0013" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0014" x="0" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0015" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0016" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0017" x="512" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0018" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0019" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0020" x="1025" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0021" x="1539" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0022" x="1539" y="0" width="514" height="514"/>
+	<SubTexture name="Evil BF idle dance0023" x="1539" y="0" width="514" height="514"/>
+</TextureAtlas>
