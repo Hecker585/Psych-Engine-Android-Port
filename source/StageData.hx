@@ -39,7 +39,7 @@ class StageData {
 				case 'senpai' | 'roses':
 					stage = 'school';
 				case 'thorns':
-					stage = 'schoolEvil';
+					stage = 'ban';
 				default:
 					stage = 'stage';
 			}
